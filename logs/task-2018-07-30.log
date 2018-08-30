@@ -1,0 +1,16 @@
+[2018-07-30T18:44:20.798] [ERROR] cheese - ikcamp
+[2018-07-30T18:44:20.822] [INFO] cheese - 响应时间为:0.035s
+[2018-07-30T18:44:20.848] [INFO] cheese - 响应时间为:0.01s
+
+[2018-07-30T18:53:06.055] [ERROR] cheese - ikcamp
+[2018-07-30T18:53:06.089] [INFO] cheese - 响应时间为:0.045s
+[2018-07-30T18:53:06.120] [INFO] cheese - 响应时间为:0.004s
+[2018-07-30T18:53:07.672] [ERROR] cheese - ikcamp
+[2018-07-30T18:53:07.674] [INFO] cheese - 响应时间为:0.004s
+[2018-07-30T18:53:07.691] [INFO] cheese - 响应时间为:0.003s
+[2018-07-30T18:53:14.548] [ERROR] cheese - ikcamp
+[2018-07-30T18:53:14.551] [INFO] cheese - 响应时间为:0.005s
+[2018-07-30T18:53:14.585] [INFO] cheese - 响应时间为:0.01s
+[2018-07-30T19:07:49.459] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"0.0.0.0","method":"GET","url":"/","host":"localhost:3000","message":"ikcamp","userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3493.3 Safari/537.36"}
+[2018-07-30T19:07:49.482] [INFO] cheese - {"projectName":"koa2-tutorial","serverIp":"0.0.0.0","method":"GET","url":"/","host":"localhost:3000","message":{"responseTime":"响应时间为0.038s"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3493.3 Safari/537.36"}
+[2018-07-30T19:07:49.526] [INFO] cheese - {"projectName":"koa2-tutorial","serverIp":"0.0.0.0","method":"GET","url":"/home/main.css","host":"localhost:3000","message":{"responseTime":"响应时间为0.004s"},"referer":"http://localhost:3000/","userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3493.3 Safari/537.36"}
